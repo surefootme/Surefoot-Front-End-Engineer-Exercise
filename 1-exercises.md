@@ -1,4 +1,4 @@
-## Form validation
+## Exercise 1: Form validation
 *Hypothesis:* Adding form validation to the "name" and "message" fields of the email form will increase form submissions.
 
 *Device type:* Desktop only  
@@ -16,9 +16,9 @@
 ```
 /* Form Validation Code */
 ```
+---
 
-
-## Form restyling
+## Exercise 2: Form restyling
 
 *Hypothesis:* Swapping the position of the two forms and restyling the email form will increase email form submissions.
 
@@ -39,9 +39,9 @@
 ```
 /* Form Restyling Code */
 ```
+---
 
-
-## Cookie monster
+## Exercise 3: Cookie monster
 
 *Hypothesis:* Disallowing return users to resubmit the email form will decrease spam.
 
