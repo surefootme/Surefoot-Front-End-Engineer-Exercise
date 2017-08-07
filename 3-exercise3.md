@@ -1,5 +1,5 @@
-### Cookie monster
-###### Hypothesis: Disallowing return users to resubmit the email form will decrease spam.
+## Cookie monster
+### Hypothesis: Disallowing return users to resubmit the email form will decrease spam.
 
 *Device:* Desktop only
 
