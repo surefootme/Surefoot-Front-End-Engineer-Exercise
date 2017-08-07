@@ -15,6 +15,8 @@
 
 **Your code here:**
 
-```/* Cookie Monster Code */```
+```
+/* Cookie Monster Code */
+```
 
 
