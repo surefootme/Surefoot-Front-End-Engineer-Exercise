@@ -1,5 +1,6 @@
 ## Form validation
-### Hypothesis: Adding form validation to the "name" and "message" fields of the email form will increase form submissions.
+*Hypothesis:* Adding form validation to the "name" and "message" fields of the email form will increase form submissions.
+
 *Device type:* Desktop only  
 
 *URL:* http://surefoot.staging.wpengine.com/engineer-test/  

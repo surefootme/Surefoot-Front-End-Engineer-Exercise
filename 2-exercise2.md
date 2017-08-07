@@ -1,5 +1,7 @@
 ## Form restyling
-### Hypothesis: Swapping the position of the two forms and restyling the email form will increase email form submissions.
+
+*Hypothesis:* Swapping the position of the two forms and restyling the email form will increase email form submissions.
+
 *Device type:* Desktop only
 
 *URL:* http://surefoot.staging.wpengine.com/engineer-test/
