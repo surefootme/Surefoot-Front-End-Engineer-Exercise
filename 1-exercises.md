@@ -3,7 +3,7 @@
 
 *Device type:* Desktop only  
 
-*URL:* http://surefoot.staging.wpengine.com/engineer-test/  
+*URL:* http://surefoot.me/engineer-application-sandbox/
 
 *Dev notes:*
 - Currently, the form only checks for a valid email address. 
@@ -24,7 +24,7 @@
 
 *Device type:* Desktop only
 
-*URL:* http://surefoot.staging.wpengine.com/engineer-test/
+*URL:* http://surefoot.me/engineer-application-sandbox/
 
 *Mockup:* https://goo.gl/cboH7f
 
@@ -47,7 +47,7 @@
 
 *Device:* Desktop only
 
-*URL:* http://surefoot.staging.wpengine.com/engineer-test/
+*URL:* http://surefoot.me/engineer-application-sandbox/
 
 *Dev Notes:*
 - If user has already submitted the email form, don’t allow them to resubmit. Instead, show the message "Hmm, you look familiar. While you're waiting for our reply, here's a GIF we think you should see."
