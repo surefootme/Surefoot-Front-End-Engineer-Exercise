@@ -1,6 +1,6 @@
 ## Howdy, job seeker!
 
-Below are 3 code exercises that will allow us to get a sense for your coding chops and give you exposure to the type of work you'd be doing on a regular basis to ensure you enjoy it. Our flavor of dev is a bit atypical in nature, and the exercises are written to reflect that.
+Below are 3 code exercises that will allow us to get a sense for your coding chops and give you exposure to the type of work you'd be doing on a regular basis to ensure you enjoy it. Our flavor of dev is a bit atypical in nature, and the exercises are designed to reflect that.
 
 #### Instructions
 1) Create a new gist containing the raw text from the below exercises
