@@ -19,7 +19,7 @@ Feel free to email jobs@surefoot.me with any questions.
 *URL:* http://surefoot.me/engineer-application-sandbox/
 
 *Dev notes:*
-- Currently, the form only checks for a valid email address. 
+- Currently, the form doesn't check the validity of any information.
 - Please execute your code on DOM ready and use AJAX to handle validation.
 - Styling/layout of error messaging is up to you.
 - Include a few lines of a README-esque description that explains your code to a non-technical person.
