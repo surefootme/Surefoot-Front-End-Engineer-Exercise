@@ -1,6 +1,6 @@
 ## Howdy, job seeker!
 
-Below are 3 code exercises that will allow us to get a sense for your coding chops and give you exposure to the type of work you'd be doing on a regular basis to ensure you enjoy it. Our flavor of dev is a bit atypical in nature, and the exercises are designed to reflect that.
+Below are 3 code exercises that will allow us to get a sense for your coding chops and give you exposure to the type of work you'd be doing on a regular basis to ensure you enjoy it. This is isn’t your standard front-end dev gig, as you’ll be writing code that is inserted into websites via 3rd party testing tools like Optimizely and Dynamic Yield. The below exercises are designed to reflect that.  
 
 #### Instructions
 1) Create a new gist containing the raw text from the below exercises
@@ -19,7 +19,7 @@ Feel free to email jobs@surefoot.me with any questions.
 *URL:* http://surefoot.me/engineer-application-sandbox/
 
 *Dev notes:*
-- Currently, the form doesn't check the validity of any information.
+- Currently, the form only checks for a valid email.
 - Please execute your code on DOM ready and use AJAX to handle validation.
 - Styling/layout of error messaging is up to you.
 - Include a few lines of a README-esque description that explains your code to a non-technical person.
