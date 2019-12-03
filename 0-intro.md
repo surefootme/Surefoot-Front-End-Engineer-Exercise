@@ -20,7 +20,7 @@ Feel free to email jobs@surefoot.me with any questions.
 
 *Dev notes:*
 - Currently, the form only checks for a valid email.
-- Please execute your code on DOM ready and use AJAX to handle validation.
+- Please execute your code on DOM ready and use javascript to handle validation.
 - Styling/layout of error messaging is up to you.
 - Include a few lines of a README-esque description that explains your code to a non-technical person.
 
