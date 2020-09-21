@@ -16,7 +16,7 @@ Feel free to email jobs@surefoot.me with any questions.
 
 *Device type:* Desktop only  
 
-*URL:* http://surefoot.me/engineer-application-sandbox/
+*URL:* https://surefoot.me/engineer-application-sandbox-v1/
 
 *Dev notes:*
 - Currently, the form only checks for a valid email.
@@ -37,7 +37,7 @@ Feel free to email jobs@surefoot.me with any questions.
 
 *Device type:* Desktop only
 
-*URL:* http://surefoot.me/engineer-application-sandbox/
+*URL:* https://surefoot.me/engineer-application-sandbox-v1/
 
 *Mockup:* https://goo.gl/oMM3Pe
 
@@ -60,7 +60,7 @@ Feel free to email jobs@surefoot.me with any questions.
 
 *Device:* Desktop only
 
-*URL:* http://surefoot.me/engineer-application-sandbox/
+*URL:* https://surefoot.me/engineer-application-sandbox-v1/
 
 *Dev Notes:*
 - If user has already submitted the email form, don’t allow them to resubmit. Instead, show the message "Hmm, you look familiar. While you're waiting for our reply, here's a GIF we think you should see."
