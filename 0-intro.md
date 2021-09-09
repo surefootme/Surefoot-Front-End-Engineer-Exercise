@@ -6,7 +6,7 @@ Below are 3 code exercises that will allow us to get a sense for your coding cho
 1) Create a new gist containing the raw text from the below exercises
 2) Name your gist `"yourName-surefoot-application.md"`
 3) Add your code (in your new file) where indicated 
-4) When complete, revisit the [job requirements](http://surefoot.me/jobs/engineer/) at the bottom of the description to ensure you're sending a complete application and :shipit:
+4) When complete, revisit the [job requirements](http://surefoot.me/jobs/frontend-engineer/) at the bottom of the description to ensure you're sending a complete application and :shipit:
 
 Feel free to email jobs@surefoot.me with any questions.
 
