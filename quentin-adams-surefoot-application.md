@@ -28,6 +28,7 @@ Feel free to email jobs@surefoot.me with any questions.
 
 ```
 /* Form Validation Code */
+https://gist.github.com/qladams/899a0cfb377870749db5faf855e49091
 ```
 ---
 
@@ -48,7 +49,7 @@ Feel free to email jobs@surefoot.me with any questions.
 
 
 **Your code here:**
-
+https://gist.github.com/qladams/2b71d7de070982db0c057631632882b2
 ```
 /* Form Restyling Code */
 ```
@@ -70,6 +71,7 @@ Feel free to email jobs@surefoot.me with any questions.
 
 
 **Your code here:**
+https://gist.github.com/qladams/cb3ef0bef78ee5c5c61879381e27b3df
 
 ```
 /* Cookie Monster Code */
