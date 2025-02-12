@@ -1,6 +1,6 @@
 # Howdy, job seeker!
 
-Below are 3 code exercises that will allow us to get a sense for your coding chops and give you exposure to the type of work you'd be doing on a regular basis to ensure you enjoy it. This is isn’t your standard front-end dev gig, as you’ll be writing code that is inserted into websites via 3rd party testing tools like [Convert](https://www.convert.com/), [Dynamic Yield](https://www.dynamicyield.com/), and [Webtrends-Optimize](https://www.webtrends-optimize.com/). The below exercises are designed to reflect that.  
+Below are 3 code exercises that will allow us to get a sense for your coding chops and give you exposure to the type of work you'd be doing on a regular basis to ensure you enjoy it. This is isn’t your standard front-end dev gig, as you’ll be writing code that is inserted into websites via 3rd party testing tools like [Convert](https://www.convert.com/), [Monetate](https://www.monetate.com/), and [Visually.io](https://www.visually.io/). The below exercises are designed to reflect that.  
 
 ## Instructions
 1) Create a [new gist](https://gist.new) containing the raw text from the below exercises
