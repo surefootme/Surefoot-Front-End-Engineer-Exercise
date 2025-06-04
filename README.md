@@ -76,15 +76,18 @@ Additionally, because CRO should be fun, you’ll add a **hidden surprise GIF** 
 *   Ensure the implementation can be executed **within browser devtools**, using JavaScript and CSS (not by modifying the site’s actual code).
 *   Use the following API request to get products in the same category, and display the first result that is returned:
     ```sh
-    curl --location 'https://mvfvxhvmmt-dsn.algolia.net/1/indexes/*/queries?X-Algolia-Api-Key=OTVkZTk2YTY1YTBiNGM0MTlmYmQ5MmE4YWRmYWUxZWI0MDJiODc5YTExNGQ0MjM3OTBjODQ4NDczNTRmZWUzNmZpbHRlcnM9Y2F0YWxvZ19wZXJtaXNzaW9ucy5jdXN0b21lcl9ncm91cF8wJTIwJTIxJTNEJTIwMCZ0YWdGaWx0ZXJzPSZ2YWxpZFVudGlsPTE3NDQ5MDAwMjE%3D&X-Algolia-Application-Id=MVFVXHVMMT' \
-    --header 'Content-Type: application/json' \
-    --data '{
-        "requests": [
-            {
+    curl --location 'https://mvfvxhvmmt-dsn.algolia.net/1/indexes/*/recommendations' \
+        --header 'Content-Type: application/json' \
+        --header 'X-Algolia-API-Key: ab2c55cb9b5c14cc40a50f16dde51a90' \
+        --header 'X-Algolia-Application-ID: MVFVXHVMMT' \
+        --data '{
+            "requests": [{
                 "indexName": "magento2_prod_oxooxo_products",
-                "params": "clickAnalytics=true&facetFilters=%5B%5B%22categories.level3%3AShop%20%2F%2F%2F%20Kitchenware%20%2F%2F%2F%20Food%20Containers%20%2F%2F%2F%20Smart%20Seal%22%5D%5D&facets=%5B%22brand%22%2C%22categories.level0%22%2C%22categories.level1%22%2C%22categories.level2%22%2C%22categories.level3%22%2C%22categories.level4%22%2C%22oxo_color%22%2C%22price.USD.group_0%22%5D&filters=categoryPageId%3A%22Shop%20%2F%2F%2F%20Kitchenware%20%2F%2F%2F%20Food%20Containers%20%2F%2F%2F%20Smart%20Seal%22&highlightPostTag=__%2Fais-highlight__&highlightPreTag=__ais-highlight__&hitsPerPage=48&maxValuesPerFacet=10&numericFilters=%5B%22visibility_catalog%3D1%22%2C%22status%3D1%22%5D&page=0&ruleContexts=%5B%22magento_filters%22%2C%22magento-category-25%22%5D&tagFilters="
-            }
-        ]
-    }'
+                "objectID": "5632",
+                "model": "related-products",
+                "maxRecommendations": 3,
+                "threshold": 0
+            }]
+        }'
     ```
 *   Bonus (not required): Add a carousel (with one slide visible at a time) and let the user navigate between three different products returned from the API above.
