@@ -56,15 +56,16 @@ Additionally, because CRO should be fun, you’ll add a **hidden surprise GIF** 
 *   Ensure the implementation can be executed **within browser devtools**, using JavaScript and CSS (not by modifying the site’s actual code).
 *   Bonus (not required): Add a subtle fade-in effect when the message appears.
 
-### **Variation B: The Easter Egg Surprise**
+### Variation B: The Easter Egg Surprise
 
-**Target URL:** _All_ product pages (e.g. ﻿[oxo.com/oxo-pop-20-piece-pop-container-set.html](https://www.oxo.com/oxo-pop-20-piece-pop-container-set.html), [oxo.com/oxo-pop-20-piece-pop-container-set.html](https://www.oxo.com/oxo-pop-20-piece-pop-container-set.html)﻿)
+**Target URL:** _Exactly_ [https://www.oxo.com/compact-cold-brew.html](https://www.oxo.com/compact-cold-brew.html)
 
-*   When a user **hovers over the “Add to Cart” button five times**, a hidden **funny cooking-related GIF** should appear below the button.
-*   The animation should feel smooth and non-intrusive.
+*   When a user **hovers over the “Add to Cart” button five times**, a hidden GIF should appear below the button.
+*   Use this GIF: https://www.oxo.com/media/magefan_blog/2018/10/ezgif.com-resize.gif
+*   The GIF insertion should feel smooth and non-intrusive.
+*   The GIF should **disappear** when the user clicks on it. **Reset the experience** so the GIF is shown again after the user hovers over the "Add to Cart" button 5 more times.
 *   Use JavaScript and CSS to manage the logic.
 *   Ensure the implementation can be executed **within browser devtools**, using JavaScript and CSS (not by modifying the site’s actual code).
-*   Bonus (not required): Make the GIF disappear when the user clicks on it.
     
 ### Variation C: Recommended Products
 
