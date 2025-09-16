@@ -48,7 +48,7 @@ Additionally, because CRO should be fun, you’ll add a **hidden surprise GIF** 
 
 ### Variation A: Confidence Booster Message
 
-**Target URL:** _All_ product pages (e.g. ﻿[Oxooxo.com/oxo-professional-5pc-starter-set.html](https://www.oxo.com/oxo-professional-5pc-starter-set.html), [Oxooxo.com/oxo-professional-5pc-starter-set.html](https://www.oxo.com/oxo-professional-5pc-starter-set.html)﻿)
+**Target URL:** _All_ product pages (e.g. ﻿[oxo.com/oxo-professional-5pc-starter-set.html](https://www.oxo.com/oxo-professional-5pc-starter-set.html), [oxo.com/oxo-professional-5pc-starter-set.html](https://www.oxo.com/oxo-professional-5pc-starter-set.html)﻿)
 
 *   Add a **small, well-styled message** below the “Add to Cart” button:
     > “OXO products are used in over 10 million kitchens. You’re in good company!”
@@ -58,7 +58,7 @@ Additionally, because CRO should be fun, you’ll add a **hidden surprise GIF** 
 
 ### **Variation B: The Easter Egg Surprise**
 
-**Target URL:** _All_ product pages (e.g. ﻿[Oxooxo.com/oxo-pop-20-piece-pop-container-set.html](https://www.oxo.com/oxo-pop-20-piece-pop-container-set.html), [Oxooxo.com/oxo-pop-20-piece-pop-container-set.html](https://www.oxo.com/oxo-pop-20-piece-pop-container-set.html)﻿)
+**Target URL:** _All_ product pages (e.g. ﻿[oxo.com/oxo-pop-20-piece-pop-container-set.html](https://www.oxo.com/oxo-pop-20-piece-pop-container-set.html), [oxo.com/oxo-pop-20-piece-pop-container-set.html](https://www.oxo.com/oxo-pop-20-piece-pop-container-set.html)﻿)
 
 *   When a user **hovers over the “Add to Cart” button five times**, a hidden **funny cooking-related GIF** should appear below the button.
 *   The animation should feel smooth and non-intrusive.
