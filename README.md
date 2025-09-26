@@ -37,6 +37,7 @@ Write code *to be executed in the browser's devtools* to modify an existing prod
 2.  Include a **fun Easter egg**—a hidden GIF that appears based on user interaction.
 3.  Fetch product details **from an API** and display them on the page.
 4.  Follow clean, modular, and well-documented coding practices.
+5.  Consider users accessing the site from all device types and sizes.
 
 ## Scenario
 
